@@ -1,0 +1,17 @@
+                     Static Taken btb(8): 99.998%; 99.998%
+                 Static Not Taken btb(8):  0.002%;  0.002%
+                    Binomial(16) btb(16): 99.999%; 99.999%
+                    Binomial(32) btb(16): 99.999%; 99.999%
+                   Binomial(128) btb(32): 99.999%; 99.998%
+                  Binomial(2048) btb(64): 99.999%; 99.998%
+                     2Bit Bi(16) btb(16): 99.999%; 99.999%
+                     2Bit Bi(32) btb(16): 99.999%; 99.998%
+                    2Bit Bi(128) btb(32): 99.999%; 99.998%
+                   2Bit Bi(2048) btb(64): 99.998%; 99.998%
+            Corr(4): 2Bit Bi(16) btb(32): 99.999%; 99.998%
+          Corr(4): 2Bit Bi(1024) btb(32): 99.999%; 99.998%
+                   Gshare(3 bit) btb(16): 99.999%; 99.998%
+                   Gshare(4 bit) btb(32): 99.998%; 99.998%
+                   Gshare(5 bit) btb(32): 99.998%; 99.998%
+                  Gshare(10 bit) btb(64): 99.998%; 99.998%
+   T-2Bit Bi(2048)/Gshare(4 bit) btb(64): 99.999%; 99.998%
